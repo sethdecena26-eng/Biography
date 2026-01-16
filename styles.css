@@ -1,0 +1,30 @@
+body{
+    margin:0 auto;
+    width:70%;
+    border-radius:15px red;
+}
+
+img {
+    width:40%;
+    height:30%;
+    border-radius: 50%;
+    display:flex;
+    justify-content:center;
+}
+
+h4{
+    font-size:20px;
+}
+p{
+    font: 15px;;
+}
+
+li{
+    font-size: 20px;
+}
+h1{
+    text-align:center;
+}
+p {
+    text-align: center;
+}
